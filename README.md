@@ -1,4 +1,4 @@
-# Portfolio_Data_Analyst
+# Portfolio_Data Analytics for Business Process Optimization
 Привет, меня зовут Эдуард. Я аналитик в компании Магнит. Имеют опыт работы в ритейле, HORECA, логистика.
 
 В этом репозитории находится портфолио части моих проектов. Проекты выполнялись в рамках обучения на курсе "Аналитик данных" от Yandex.Practicum (2023 г.) Все проекты выполнены в Jupiter Notebook с использованием Python.
